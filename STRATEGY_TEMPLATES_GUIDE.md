@@ -47,8 +47,7 @@ This repository now contains **6 different trading strategy templates** for back
 **Logic:** Buy when recent return is positive, sell when negative  
 **Parameters:**
 - Lookback Period: 10-120 periods (step 10)
-- Holding Period: 5-40 periods (step 5)
-- **Total combinations:** ~96
+- **Total combinations:** 13
 
 **Use case:** Pure momentum strategy based on recent price trends
 
